@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Agricultura",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Predio", "Description": "" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -107.673026624496501, 24.75766085153008, 0.0 ], [ -107.635332797100304, 24.760008243786661, 0.0 ], [ -107.644066519348499, 24.80059938041618, 0.0 ], [ -107.678563185873898, 24.797309427504821, 0.0 ], [ -107.673026624496501, 24.75766085153008, 0.0 ] ] ] } }
+]
+}
