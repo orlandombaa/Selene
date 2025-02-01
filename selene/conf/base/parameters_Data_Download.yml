@@ -3,3 +3,7 @@
 #
 # Documentation for this file format can be found in "Parameters"
 # Link: https://docs.kedro.org/en/0.19.10/configuration/parameters.html
+
+# NOTA: En este archivo YML  integraremos todos los paraémtros necesarios para el pipeline de Data Download
+
+
